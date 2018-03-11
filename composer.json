@@ -26,7 +26,5 @@
         "psr-0": { 
         	"PHPHtmlParser": "src/"
        	}
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
